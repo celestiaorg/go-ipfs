@@ -454,8 +454,6 @@ github.com/ipfs/go-unixfs v0.0.4/go.mod h1:eIo/p9ADu/MFOuyxzwU+Th8D6xoxU//r590vU
 github.com/ipfs/go-unixfs v0.1.0/go.mod h1:lysk5ELhOso8+Fed9U1QTGey2ocsfaZ18h0NCO2Fj9s=
 github.com/ipfs/go-unixfs v0.2.4 h1:6NwppOXefWIyysZ4LR/qUBPvXd5//8J3jiMdvpbw6Lo=
 github.com/ipfs/go-unixfs v0.2.4/go.mod h1:SUdisfUjNoSDzzhGVxvCL9QO/nKdwXdr+gbMUdqcbYw=
-github.com/ipfs/go-verifcid v0.0.1 h1:m2HI7zIuR5TFyQ1b79Da5N9dnnCP1vcu2QqawmWlK2E=
-github.com/ipfs/go-verifcid v0.0.1/go.mod h1:5Hrva5KBeIog4A+UpqlaIU+DEstipcJYQQZc0g37pY0=
 github.com/ipfs/interface-go-ipfs-core v0.3.0 h1:oZdLLfh256gPGcYPURjivj/lv296GIcr8mUqZUnXOEI=
 github.com/ipfs/interface-go-ipfs-core v0.3.0/go.mod h1:Tihp8zxGpUeE3Tokr94L6zWZZdkRQvG5TL6i9MuNE+s=
 github.com/ipfs/interface-go-ipfs-core v0.4.0 h1:+mUiamyHIwedqP8ZgbCIwpy40oX7QcXUbo4CZOeJVJg=
@@ -523,6 +521,8 @@ github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
 github.com/lazyledger/go-multihash v0.0.15-0.20210201232637-a31dec8c92fa h1:H6SVty0Z9EoOD88JXCyCp4gq0RjU5PxdukxCtDi+X7I=
 github.com/lazyledger/go-multihash v0.0.15-0.20210201232637-a31dec8c92fa/go.mod h1:VdAWLKTwram9oKAatUcLxBNUjdtcVwxObEQBtRfuyjc=
+github.com/lazyledger/go-verifcid v0.0.2-0.20210202003519-bbb215fd683e h1:6zrgsqBs0Km03F2R/TyqDg/L2WjZwSWD3wOYSbveFu0=
+github.com/lazyledger/go-verifcid v0.0.2-0.20210202003519-bbb215fd683e/go.mod h1:Hy3izgOwmPPbtF1v7Lc9UnnuzO2+EskplNUpKzWvMBo=
 github.com/libp2p/go-addr-util v0.0.1 h1:TpTQm9cXVRVSKsYbgQ7GKc3KbbHVTnbostgGaDEP+88=
 github.com/libp2p/go-addr-util v0.0.1/go.mod h1:4ac6O7n9rIAKB1dnd+s8IbbMXkt+oBpzX4/+RACcnlQ=
 github.com/libp2p/go-addr-util v0.0.2 h1:7cWK5cdA5x72jX0g8iLrQWm5TRJZ6CzGdPEhWj7plWU=
