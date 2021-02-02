@@ -110,4 +110,6 @@ require (
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
 )
 
+replace github.com/multiformats/go-multihash v0.0.14 => github.com/lazyledger/go-multihash v0.0.15-0.20210201232637-a31dec8c92fa
+
 go 1.13
