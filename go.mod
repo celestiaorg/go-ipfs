@@ -111,7 +111,7 @@ require (
 )
 
 replace (
-	github.com/ipfs/go-verifcid => github.com/lazyledger/go-verifcid v0.0.2-0.20210205231833-9421478e6403
+	github.com/ipfs/go-verifcid => github.com/lazyledger/go-verifcid v0.0.2-0.20210205232850-c3e21cfe4064
 	github.com/multiformats/go-multihash => github.com/lazyledger/go-multihash v0.0.15-0.20210205224750-88bad1265973
 )
 
