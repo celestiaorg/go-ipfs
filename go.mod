@@ -110,6 +110,6 @@ require (
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
 )
 
-replace github.com/ipfs/go-verifcid => github.com/lazyledger/go-verifcid v0.0.2-0.20210213182512-19890b0d114d
+replace github.com/ipfs/go-verifcid => github.com/lazyledger/go-verifcid v0.0.1-lazypatch
 
-go 1.13
+go 1.15
