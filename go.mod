@@ -111,4 +111,6 @@ require (
 	golang.org/x/sys v0.0.0-20200615200032-f1bc736245b1
 )
 
-go 1.14
+replace github.com/ipfs/go-verifcid => github.com/lazyledger/go-verifcid v0.0.1-lazypatch
+
+go 1.15
